@@ -1,5 +1,5 @@
 ### Hi there! 👋
-This is **Yusuf Nazım Pehlivan.** and I'm a third year math major in Bilkent University. I'm interested in **data science** and specifically **sports analytics**. These days I'm developing projects on sports analytics.
+This is **Yusuf Nazım Pehlivan.** I'm a third year math major in Bilkent University. I'm interested in **data science** and specifically **sports analytics**. These days I'm developing projects on sports analytics.
 
 
 - 🔭 I’m currently working on several machine learning projects.
