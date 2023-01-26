@@ -7,7 +7,7 @@ Hello, this is **Yusuf Nazım Pehlivan.** and I'm a third year math major in Bil
 - ⚡ Fun fact: I'm an avid squash player.
 - 🏹  [Curriculum vitae, the path of my life (**LinkedIn**)](https://linkedin.com/in/yusufnazim)
 
-<h4 align="left">Languages and Tools:</h3>
+<h3 align="left">Languages and Tools:</h3>
 
 
 
