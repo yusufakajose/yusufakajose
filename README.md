@@ -5,7 +5,6 @@ Hello, this is **Yusuf Nazım Pehlivan.** and I'm a third year math major in Bil
 - 🔭 I’m currently working on several machine learning projects.
 - 🌱 I’m currently learning sports analytics.
 - ⚡ Fun fact: I'm an avid squash player.
-
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/yusufnazim//)  
+- 🏹  [Curriculum vitae, the path of my life (**LinkedIn**)](https://linkedin.com/in/yusufnazim)
 
 
