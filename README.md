@@ -1,5 +1,5 @@
-### Hi there! I'm Yusuf and I'm a third year math major in Bilkent University. I'm interested in **data science**👋
-
+### Hi there! 👋
+I'm Yusuf and I'm a third year math major in Bilkent University. I'm interested in **data science**
 
 
 - 🔭 I’m currently working on several machine learning projects.
