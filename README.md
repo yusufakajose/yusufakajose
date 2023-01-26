@@ -1,8 +1,6 @@
-### Hi there 👋
+### Hi there! I'm Yusuf and I'm a third year math major in Bilkent University. I'm interested in **data science**👋
 
 
-
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on several machine learning projects.
 - 🌱 I’m currently learning sports analytics.
