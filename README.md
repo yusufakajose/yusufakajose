@@ -4,8 +4,7 @@ This is **Yusuf Nazım Pehlivan.** I graduated in Mathematics from Bilkent Unive
 
 - I’m currently working on several machine-learning projects.
 - I’m currently learning sports analytics.
-- Fun fact: I'm an avid squash player.
-- [Curriculum vitae, the path of my life (**LinkedIn**)](https://linkedin.com/in/yusufnazim)
+- [**LinkedIn**](https://linkedin.com/in/yusufnazim)
 
 
 
